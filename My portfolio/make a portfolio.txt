@@ -1,0 +1,7 @@
+make a portfolio 
+make a navbar and give it a height and make it top down 
+make it responsive 
+and have three buttons want to give it animation my wish !!//optional
+make sure it have light mode and dark mode..
+use html css and javasrcipt 
+do javascript upto objects methods in w3schools
